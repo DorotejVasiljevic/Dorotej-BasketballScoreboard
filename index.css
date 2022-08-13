@@ -1,0 +1,229 @@
+@font-face {font-family:"Cursed Timer ULiL";src:url("CursedTimerULiL.eot?") format("eot"),url("CursedTimerULiL.woff") format("woff"),url("CursedTimerULiL.ttf") format("truetype"),url("CursedTimerULiL.svg#CursedTimerULiL") format("svg");font-weight:normal;font-style:normal;}
+
+body {
+    
+    margin: 0;
+    background-color: #1B244A;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+  
+}
+#home-div {
+background-color: black;
+position: absolute;
+width: 117px;
+height: 120px;
+left: 100px;
+top: 125px;
+margin-top: 41px;
+
+border-left: 18px solid black;
+border-right: 20px solid black;
+
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 141px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+
+
+}
+#guest-div {
+background-color: black;     
+position: absolute;
+width: 117px;
+height: 120px;
+left: 355px;
+top: 125px;
+margin-top: 41px;
+
+border-left: 18px solid black;
+border-right: 20px solid black;
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 141px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D 
+}
+#home-tittle{
+position: absolute;
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+
+border-left: 17px solid #1B244A;
+border-right: 6px solid #1B244A;
+
+border-left: 17px solid #1B244A;
+border-right: 6px solid #1B244A;
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE; 
+}
+#guest-tittle {
+position: absolute;
+width: 149px;
+height: 36px;
+left: 340px;
+top: 68px;
+
+border-left: 17px solid #1B244A;
+border-right: 6px solid #1B244A;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+#plusOnePointHome {
+position: absolute;
+width: 45px;
+height: 45px;
+left: 100px;
+top: 271px;
+margin-top: 50px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8
+}
+#plusTwoPointHome {
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 154px;
+top: 271px;
+margin-top: 50px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8
+}
+#plusThreePointHome {
+   position: absolute;
+width: 45px;
+height: 45px;
+left: 208px;
+top: 271px;
+ margin-top: 50px;
+ font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8
+}
+#plusOnePointGuest {
+position: absolute;
+width: 45px;
+height: 45px;
+left: 355px;
+top: 271px;
+margin-top: 50px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8
+}
+#plusTwoPointGuest {
+position: absolute;
+width: 45px;
+height: 45px;
+left: 409px;
+top: 271px;
+margin-top: 50px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8  
+}
+#plusThreePointGuest {
+position: absolute;
+width: 45px;
+height: 45px;
+left: 463px;
+top: 271px;
+ margin-top: 50px;
+ font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+border: 2px solid #9AABD8;
+border-radius: 4px;
+background-color: #1B244A;
+text-align: center;
+
+color: #9AABD8
+}
